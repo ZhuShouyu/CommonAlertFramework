@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_CommonAlertFramework_Example_CommonAlertFramework : NSObject
+@end
+@implementation PodsDummy_Pods_CommonAlertFramework_Example_CommonAlertFramework
+@end

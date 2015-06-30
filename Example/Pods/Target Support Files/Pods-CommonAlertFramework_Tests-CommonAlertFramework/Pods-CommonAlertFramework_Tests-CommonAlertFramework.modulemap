@@ -1,0 +1,6 @@
+framework module CommonAlertFramework {
+  umbrella header "Pods-CommonAlertFramework_Tests-CommonAlertFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
